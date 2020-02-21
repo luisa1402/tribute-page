@@ -37,7 +37,7 @@ body{
   
   p{
     margin: 0px;
-    font-family: lobster;
+    font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: center; 
     font-size: 25px; 
@@ -51,5 +51,14 @@ body{
   }
 
   .informacion{
-     justify-content: center;
+     text-align: center;
+     font-size: 25px;
+     font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .info-libro{
+          text-align: center;
+          font-size: 25px;
+          font-family: Arial, Helvetica, sans-serif;
+          display: flex;
   }
